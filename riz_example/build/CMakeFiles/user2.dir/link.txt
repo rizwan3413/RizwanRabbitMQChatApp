@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/user2.dir/user2.o CMakeFiles/user2.dir/init.o  -o user2 -lamqpcpp -lev -lpthread -ldl -lssl 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rizwan3413/Project/riz_example/constants.h
+string
+-
+
+/home/rizwan3413/Project/riz_example/init.cpp
+init.h
+/home/rizwan3413/Project/riz_example/init.h
+
+/home/rizwan3413/Project/riz_example/init.h
+string
+-
+ev.h
+-
+amqpcpp.h
+-
+amqpcpp/libev.h
+-
+
+/home/rizwan3413/Project/riz_example/user2.cpp
+init.h
+/home/rizwan3413/Project/riz_example/init.h
+constants.h
+/home/rizwan3413/Project/riz_example/constants.h
+

@@ -1,0 +1,4 @@
+/home/rizwan3413/Project/riz_example/build/CMakeFiles/rebuild_cache.dir
+/home/rizwan3413/Project/riz_example/build/CMakeFiles/edit_cache.dir
+/home/rizwan3413/Project/riz_example/build/CMakeFiles/user1.dir
+/home/rizwan3413/Project/riz_example/build/CMakeFiles/user2.dir
